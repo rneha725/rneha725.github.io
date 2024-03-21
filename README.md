@@ -1,4 +1,4 @@
 # rneha725.github.io
 A name here
 
-[[Another readme.md]](Another readme.md)
+[[Another.md]](Another.md)
