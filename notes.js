@@ -13,7 +13,7 @@
 const FILES = [
 
   // ── Personal ────────────────────────────────────────────
-  'notes/personal/music/guitar-journal.md',
+  'notes/personal/music/piano-journal.md',
   'notes/personal/write/on-writing.md',
   'notes/personal/thoughts/random-thoughts.md',
   'notes/personal/art/art-log.md',
